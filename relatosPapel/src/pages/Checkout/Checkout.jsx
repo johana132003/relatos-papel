@@ -1,12 +1,12 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import CabeceraTienda from '../components/CabeceraTienda.jsx'
-import ResumenPedido from '../components/ResumenPedido.jsx'
-import { useAuth } from '../context/useAuth.js'
-import { useCart } from '../context/useCart.js'
-import { getUserDetail } from '../services/userService.js'
-import { purchaseBook } from '../services/purchaseService.js'
-import './TiendaPage.css'
+import CabeceraTienda from '../../components/CabeceraTienda.jsx'
+import ResumenPedido from '../../components/ResumenPedido.jsx'
+import { useAuth } from '../../context/useAuth.js'
+import { useCart } from '../../context/useCart.js'
+import { getUserDetail } from '../../services/userService.js'
+import { purchaseBook } from '../../services/purchaseService.js'
+import '../Tienda/TiendaPage.css'
 import './Checkout.css'
 
 export default function Checkout() {
@@ -66,6 +66,7 @@ export default function Checkout() {
   async function handleConfirmarCompra() {
     setErrorCompra(null)
     setConfirmando(true)
+    let ultimoPedidoId = null
     try {
       for (const line of items) {
         for (let q = 0; q < line.cantidad; q++) {
@@ -74,10 +75,11 @@ export default function Checkout() {
             setErrorCompra(res.error)
             return
           }
+          ultimoPedidoId = res.data.id
         }
       }
       clearCart()
-      navigate('/tienda/perfil', { replace: true })
+      navigate('/tienda/compra-exitosa', { replace: true, state: { total, itemsCount: items.length, numeroOrden: ultimoPedidoId } })
     } finally {
       setConfirmando(false)
     }

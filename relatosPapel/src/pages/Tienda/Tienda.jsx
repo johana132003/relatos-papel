@@ -1,32 +1,37 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
-import CabeceraTienda from '../components/CabeceraTienda.jsx'
-import PaginacionCatalogo from '../components/PaginacionCatalogo.jsx'
-import TarjetaLibro from '../components/TarjetaLibro.jsx'
-import { useAuth } from '../context/useAuth.js'
-import { getBooks } from '../services/bookService.js'
+import CabeceraTienda from '../../components/CabeceraTienda.jsx'
+import PaginacionCatalogo from '../../components/PaginacionCatalogo.jsx'
+import TarjetaLibro from '../../components/TarjetaLibro.jsx'
+import { useAuth } from '../../context/useAuth.js'
+import { getBooks } from '../../services/bookService.js'
+import {filtrarPorTitulo} from '../../utils/filtro.js'
 import './TiendaPage.css'
 
-function filtrarPorTitulo(lista, texto) {
-  const t = texto.trim().toLowerCase()
-  if (!t) return lista
-  return lista.filter((libro) => libro.titulo.toLowerCase().includes(t))
-}
 
 export default function Tienda() {
   const navigate = useNavigate()
   const [searchParams] = useSearchParams()
   const { usuario, logout } = useAuth()
   const [libros, setLibros] = useState([])
+  const [pagina, setPagina] = useState(1)
   const [cargando, setCargando] = useState(true)
   const [error, setError] = useState(null)
 
   const consulta = searchParams.get('q') ?? ''
 
+  const elementosPagina = 20
+
   const librosMostrados = useMemo(
     () => filtrarPorTitulo(libros, consulta),
     [libros, consulta],
   )
+
+  const indiceFinal = pagina * elementosPagina
+  const indiceInicial = indiceFinal - elementosPagina
+
+  const librosPaginados = librosMostrados.slice(indiceInicial, indiceFinal)
+  const totalPaginas = Math.ceil(librosMostrados.length / elementosPagina)
 
   useEffect(() => {
     if (!usuario) {
@@ -95,7 +100,7 @@ export default function Tienda() {
                 </p>
               ) : null}
               <div className="tienda-grid">
-                {librosMostrados.map((libro, i) => (
+                {librosPaginados.map((libro, i) => (
                   <TarjetaLibro
                     key={`${libro.id}-${libro.titulo}-${i}`}
                     {...libro}
@@ -107,7 +112,11 @@ export default function Tienda() {
         </section>
       </div>
 
-      <PaginacionCatalogo />
+      <PaginacionCatalogo
+          paginaActual={pagina}
+          totalPaginas={totalPaginas}
+          onChangePagina={setPagina}
+      />
     </div>
   )
 }

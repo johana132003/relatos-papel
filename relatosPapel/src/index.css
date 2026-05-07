@@ -1,5 +1,5 @@
 @import './styles/theme-libreria.css';
-@import './pages/LoginPage.css';
+@import 'pages/Login/LoginPage.css';
 
 :root {
   --text: #6b6375;

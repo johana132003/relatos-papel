@@ -1,0 +1,1604 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Cien+Años+de+Soledad",
+      "precio": "$ 25.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 2,
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Rayuela",
+      "precio": "$ 52.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 3,
+      "titulo": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Pedro+Páramo",
+      "precio": "$ 20.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 4,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Don+Quijote+de+la+Mancha",
+      "precio": "$ 55.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 5,
+      "titulo": "La Ciudad y los Perros",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=La+Ciudad+y+los+Perros",
+      "precio": "$ 47.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 6,
+      "titulo": "Ficciones",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Ficciones",
+      "precio": "$ 42.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 7,
+      "titulo": "La Casa de los Espíritus",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=La+Casa+de+los+Espíritus",
+      "precio": "$ 53.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 8,
+      "titulo": "El Túnel",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Túnel",
+      "precio": "$ 40.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 9,
+      "titulo": "Crónica de una Muerte Anunciada",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Crónica+de+una+Muerte+Anunciada",
+      "precio": "$ 51.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 10,
+      "titulo": "Los Pasos Perdidos",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Los+Pasos+Perdidos",
+      "precio": "$ 35.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 11,
+      "titulo": "Sobre Héroes y Tumbas",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Sobre+Héroes+y+Tumbas",
+      "precio": "$ 47.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 12,
+      "titulo": "El Amor en los Tiempos del Cólera",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera",
+      "precio": "$ 39.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 13,
+      "titulo": "La Tregua",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Tregua",
+      "precio": "$ 55.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 14,
+      "titulo": "2666",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=2666",
+      "precio": "$ 31.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 15,
+      "titulo": "Los Detectives Salvajes",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Los+Detectives+Salvajes",
+      "precio": "$ 42.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 16,
+      "titulo": "Antología Poética",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Antología+Poética",
+      "precio": "$ 60.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 17,
+      "titulo": "El Aleph",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=El+Aleph",
+      "precio": "$ 57.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 18,
+      "titulo": "Huasipungo",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Huasipungo",
+      "precio": "$ 24.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 19,
+      "titulo": "Doña Bárbara",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Doña+Bárbara",
+      "precio": "$ 35.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 20,
+      "titulo": "El Señor Presidente",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Señor+Presidente",
+      "precio": "$ 42.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 21,
+      "titulo": "Cien Años de Soledad Vol. 2",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Cien+Años+de+Soledad+Vol.+2",
+      "precio": "$ 32.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 22,
+      "titulo": "Rayuela Vol. 2",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Rayuela+Vol.+2",
+      "precio": "$ 55.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 23,
+      "titulo": "Pedro Páramo Vol. 2",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Pedro+Páramo+Vol.+2",
+      "precio": "$ 15.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 24,
+      "titulo": "Don Quijote de la Mancha Vol. 2",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+2",
+      "precio": "$ 53.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 25,
+      "titulo": "La Ciudad y los Perros Vol. 2",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=La+Ciudad+y+los+Perros+Vol.+2",
+      "precio": "$ 18.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 26,
+      "titulo": "Ficciones Vol. 2",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Ficciones+Vol.+2",
+      "precio": "$ 51.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 27,
+      "titulo": "La Casa de los Espíritus Vol. 2",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Casa+de+los+Espíritus+Vol.+2",
+      "precio": "$ 44.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 28,
+      "titulo": "El Túnel Vol. 2",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=El+Túnel+Vol.+2",
+      "precio": "$ 19.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 29,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 2",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+2",
+      "precio": "$ 49.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 30,
+      "titulo": "Los Pasos Perdidos Vol. 2",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Los+Pasos+Perdidos+Vol.+2",
+      "precio": "$ 33.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 31,
+      "titulo": "Sobre Héroes y Tumbas Vol. 2",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+2",
+      "precio": "$ 19.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 32,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 2",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+2",
+      "precio": "$ 30.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 33,
+      "titulo": "La Tregua Vol. 2",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=La+Tregua+Vol.+2",
+      "precio": "$ 41.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 34,
+      "titulo": "2666 Vol. 2",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=2666+Vol.+2",
+      "precio": "$ 35.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 35,
+      "titulo": "Los Detectives Salvajes Vol. 2",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Los+Detectives+Salvajes+Vol.+2",
+      "precio": "$ 24.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 36,
+      "titulo": "Antología Poética Vol. 2",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Antología+Poética+Vol.+2",
+      "precio": "$ 26.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 37,
+      "titulo": "El Aleph Vol. 2",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=El+Aleph+Vol.+2",
+      "precio": "$ 27.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 38,
+      "titulo": "Huasipungo Vol. 2",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Huasipungo+Vol.+2",
+      "precio": "$ 44.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 39,
+      "titulo": "Doña Bárbara Vol. 2",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Doña+Bárbara+Vol.+2",
+      "precio": "$ 16.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 40,
+      "titulo": "El Señor Presidente Vol. 2",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=El+Señor+Presidente+Vol.+2",
+      "precio": "$ 41.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 41,
+      "titulo": "Cien Años de Soledad Vol. 3",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Cien+Años+de+Soledad+Vol.+3",
+      "precio": "$ 57.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 42,
+      "titulo": "Rayuela Vol. 3",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Rayuela+Vol.+3",
+      "precio": "$ 49.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 43,
+      "titulo": "Pedro Páramo Vol. 3",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Pedro+Páramo+Vol.+3",
+      "precio": "$ 36.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 44,
+      "titulo": "Don Quijote de la Mancha Vol. 3",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+3",
+      "precio": "$ 37.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 45,
+      "titulo": "La Ciudad y los Perros Vol. 3",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=La+Ciudad+y+los+Perros+Vol.+3",
+      "precio": "$ 44.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 46,
+      "titulo": "Ficciones Vol. 3",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Ficciones+Vol.+3",
+      "precio": "$ 15.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 47,
+      "titulo": "La Casa de los Espíritus Vol. 3",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=La+Casa+de+los+Espíritus+Vol.+3",
+      "precio": "$ 30.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 48,
+      "titulo": "El Túnel Vol. 3",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=El+Túnel+Vol.+3",
+      "precio": "$ 22.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 49,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 3",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+3",
+      "precio": "$ 19.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 50,
+      "titulo": "Los Pasos Perdidos Vol. 3",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Los+Pasos+Perdidos+Vol.+3",
+      "precio": "$ 30.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 51,
+      "titulo": "Sobre Héroes y Tumbas Vol. 3",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+3",
+      "precio": "$ 58.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 52,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 3",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+3",
+      "precio": "$ 36.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 53,
+      "titulo": "La Tregua Vol. 3",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=La+Tregua+Vol.+3",
+      "precio": "$ 56.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 54,
+      "titulo": "2666 Vol. 3",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=2666+Vol.+3",
+      "precio": "$ 45.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 55,
+      "titulo": "Los Detectives Salvajes Vol. 3",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Los+Detectives+Salvajes+Vol.+3",
+      "precio": "$ 20.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 56,
+      "titulo": "Antología Poética Vol. 3",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Antología+Poética+Vol.+3",
+      "precio": "$ 24.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 57,
+      "titulo": "El Aleph Vol. 3",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Aleph+Vol.+3",
+      "precio": "$ 16.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 58,
+      "titulo": "Huasipungo Vol. 3",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Huasipungo+Vol.+3",
+      "precio": "$ 41.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 59,
+      "titulo": "Doña Bárbara Vol. 3",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Doña+Bárbara+Vol.+3",
+      "precio": "$ 28.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 60,
+      "titulo": "El Señor Presidente Vol. 3",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=El+Señor+Presidente+Vol.+3",
+      "precio": "$ 21.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 61,
+      "titulo": "Cien Años de Soledad Vol. 4",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Cien+Años+de+Soledad+Vol.+4",
+      "precio": "$ 33.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 62,
+      "titulo": "Rayuela Vol. 4",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Rayuela+Vol.+4",
+      "precio": "$ 47.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 63,
+      "titulo": "Pedro Páramo Vol. 4",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Pedro+Páramo+Vol.+4",
+      "precio": "$ 32.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 64,
+      "titulo": "Don Quijote de la Mancha Vol. 4",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+4",
+      "precio": "$ 45.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 65,
+      "titulo": "La Ciudad y los Perros Vol. 4",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=La+Ciudad+y+los+Perros+Vol.+4",
+      "precio": "$ 51.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 66,
+      "titulo": "Ficciones Vol. 4",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Ficciones+Vol.+4",
+      "precio": "$ 27.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 67,
+      "titulo": "La Casa de los Espíritus Vol. 4",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=La+Casa+de+los+Espíritus+Vol.+4",
+      "precio": "$ 43.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 68,
+      "titulo": "El Túnel Vol. 4",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=El+Túnel+Vol.+4",
+      "precio": "$ 35.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 69,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 4",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+4",
+      "precio": "$ 42.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 70,
+      "titulo": "Los Pasos Perdidos Vol. 4",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Los+Pasos+Perdidos+Vol.+4",
+      "precio": "$ 57.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 71,
+      "titulo": "Sobre Héroes y Tumbas Vol. 4",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+4",
+      "precio": "$ 47.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 72,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 4",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+4",
+      "precio": "$ 41.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 73,
+      "titulo": "La Tregua Vol. 4",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=La+Tregua+Vol.+4",
+      "precio": "$ 45.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 74,
+      "titulo": "2666 Vol. 4",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=2666+Vol.+4",
+      "precio": "$ 54.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 75,
+      "titulo": "Los Detectives Salvajes Vol. 4",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Los+Detectives+Salvajes+Vol.+4",
+      "precio": "$ 41.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 76,
+      "titulo": "Antología Poética Vol. 4",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Antología+Poética+Vol.+4",
+      "precio": "$ 56.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 77,
+      "titulo": "El Aleph Vol. 4",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Aleph+Vol.+4",
+      "precio": "$ 51.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 78,
+      "titulo": "Huasipungo Vol. 4",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Huasipungo+Vol.+4",
+      "precio": "$ 39.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 79,
+      "titulo": "Doña Bárbara Vol. 4",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Doña+Bárbara+Vol.+4",
+      "precio": "$ 52.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 80,
+      "titulo": "El Señor Presidente Vol. 4",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Señor+Presidente+Vol.+4",
+      "precio": "$ 37.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 81,
+      "titulo": "Cien Años de Soledad Vol. 5",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Cien+Años+de+Soledad+Vol.+5",
+      "precio": "$ 52.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 82,
+      "titulo": "Rayuela Vol. 5",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Rayuela+Vol.+5",
+      "precio": "$ 57.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 83,
+      "titulo": "Pedro Páramo Vol. 5",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Pedro+Páramo+Vol.+5",
+      "precio": "$ 37.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 84,
+      "titulo": "Don Quijote de la Mancha Vol. 5",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+5",
+      "precio": "$ 57.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 85,
+      "titulo": "La Ciudad y los Perros Vol. 5",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=La+Ciudad+y+los+Perros+Vol.+5",
+      "precio": "$ 21.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 86,
+      "titulo": "Ficciones Vol. 5",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Ficciones+Vol.+5",
+      "precio": "$ 19.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 87,
+      "titulo": "La Casa de los Espíritus Vol. 5",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=La+Casa+de+los+Espíritus+Vol.+5",
+      "precio": "$ 48.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 88,
+      "titulo": "El Túnel Vol. 5",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=El+Túnel+Vol.+5",
+      "precio": "$ 46.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 89,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 5",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+5",
+      "precio": "$ 38.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 90,
+      "titulo": "Los Pasos Perdidos Vol. 5",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Los+Pasos+Perdidos+Vol.+5",
+      "precio": "$ 41.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 91,
+      "titulo": "Sobre Héroes y Tumbas Vol. 5",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+5",
+      "precio": "$ 52.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 92,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 5",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+5",
+      "precio": "$ 33.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 93,
+      "titulo": "La Tregua Vol. 5",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=La+Tregua+Vol.+5",
+      "precio": "$ 37.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 94,
+      "titulo": "2666 Vol. 5",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=2666+Vol.+5",
+      "precio": "$ 27.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 95,
+      "titulo": "Los Detectives Salvajes Vol. 5",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Los+Detectives+Salvajes+Vol.+5",
+      "precio": "$ 45.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 96,
+      "titulo": "Antología Poética Vol. 5",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Antología+Poética+Vol.+5",
+      "precio": "$ 25.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 97,
+      "titulo": "El Aleph Vol. 5",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Aleph+Vol.+5",
+      "precio": "$ 33.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 98,
+      "titulo": "Huasipungo Vol. 5",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Huasipungo+Vol.+5",
+      "precio": "$ 26.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 99,
+      "titulo": "Doña Bárbara Vol. 5",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Doña+Bárbara+Vol.+5",
+      "precio": "$ 21.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 100,
+      "titulo": "El Señor Presidente Vol. 5",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Señor+Presidente+Vol.+5",
+      "precio": "$ 49.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 101,
+      "titulo": "Cien Años de Soledad Vol. 6",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Cien+Años+de+Soledad+Vol.+6",
+      "precio": "$ 52.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 102,
+      "titulo": "Rayuela Vol. 6",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Rayuela+Vol.+6",
+      "precio": "$ 55.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 103,
+      "titulo": "Pedro Páramo Vol. 6",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Pedro+Páramo+Vol.+6",
+      "precio": "$ 19.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 104,
+      "titulo": "Don Quijote de la Mancha Vol. 6",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+6",
+      "precio": "$ 40.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 105,
+      "titulo": "La Ciudad y los Perros Vol. 6",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Ciudad+y+los+Perros+Vol.+6",
+      "precio": "$ 25.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 106,
+      "titulo": "Ficciones Vol. 6",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Ficciones+Vol.+6",
+      "precio": "$ 20.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 107,
+      "titulo": "La Casa de los Espíritus Vol. 6",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=La+Casa+de+los+Espíritus+Vol.+6",
+      "precio": "$ 42.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 108,
+      "titulo": "El Túnel Vol. 6",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Túnel+Vol.+6",
+      "precio": "$ 38.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 109,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 6",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+6",
+      "precio": "$ 53.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 110,
+      "titulo": "Los Pasos Perdidos Vol. 6",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Los+Pasos+Perdidos+Vol.+6",
+      "precio": "$ 16.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 111,
+      "titulo": "Sobre Héroes y Tumbas Vol. 6",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+6",
+      "precio": "$ 38.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 112,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 6",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+6",
+      "precio": "$ 15.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 113,
+      "titulo": "La Tregua Vol. 6",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=La+Tregua+Vol.+6",
+      "precio": "$ 21.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 114,
+      "titulo": "2666 Vol. 6",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=2666+Vol.+6",
+      "precio": "$ 50.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 115,
+      "titulo": "Los Detectives Salvajes Vol. 6",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Los+Detectives+Salvajes+Vol.+6",
+      "precio": "$ 48.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 116,
+      "titulo": "Antología Poética Vol. 6",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Antología+Poética+Vol.+6",
+      "precio": "$ 54.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 117,
+      "titulo": "El Aleph Vol. 6",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Aleph+Vol.+6",
+      "precio": "$ 40.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 118,
+      "titulo": "Huasipungo Vol. 6",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Huasipungo+Vol.+6",
+      "precio": "$ 17.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 119,
+      "titulo": "Doña Bárbara Vol. 6",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Doña+Bárbara+Vol.+6",
+      "precio": "$ 48.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 120,
+      "titulo": "El Señor Presidente Vol. 6",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Señor+Presidente+Vol.+6",
+      "precio": "$ 18.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 121,
+      "titulo": "Cien Años de Soledad Vol. 7",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Cien+Años+de+Soledad+Vol.+7",
+      "precio": "$ 47.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 122,
+      "titulo": "Rayuela Vol. 7",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Rayuela+Vol.+7",
+      "precio": "$ 21.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 123,
+      "titulo": "Pedro Páramo Vol. 7",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Pedro+Páramo+Vol.+7",
+      "precio": "$ 24.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 124,
+      "titulo": "Don Quijote de la Mancha Vol. 7",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+7",
+      "precio": "$ 59.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 125,
+      "titulo": "La Ciudad y los Perros Vol. 7",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=La+Ciudad+y+los+Perros+Vol.+7",
+      "precio": "$ 36.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 126,
+      "titulo": "Ficciones Vol. 7",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Ficciones+Vol.+7",
+      "precio": "$ 22.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 127,
+      "titulo": "La Casa de los Espíritus Vol. 7",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Casa+de+los+Espíritus+Vol.+7",
+      "precio": "$ 59.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 128,
+      "titulo": "El Túnel Vol. 7",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Túnel+Vol.+7",
+      "precio": "$ 35.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 129,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 7",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+7",
+      "precio": "$ 59.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 130,
+      "titulo": "Los Pasos Perdidos Vol. 7",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Los+Pasos+Perdidos+Vol.+7",
+      "precio": "$ 29.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 131,
+      "titulo": "Sobre Héroes y Tumbas Vol. 7",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+7",
+      "precio": "$ 54.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 132,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 7",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+7",
+      "precio": "$ 52.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 133,
+      "titulo": "La Tregua Vol. 7",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=La+Tregua+Vol.+7",
+      "precio": "$ 45.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 134,
+      "titulo": "2666 Vol. 7",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=2666+Vol.+7",
+      "precio": "$ 24.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 135,
+      "titulo": "Los Detectives Salvajes Vol. 7",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Los+Detectives+Salvajes+Vol.+7",
+      "precio": "$ 26.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 136,
+      "titulo": "Antología Poética Vol. 7",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Antología+Poética+Vol.+7",
+      "precio": "$ 46.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 137,
+      "titulo": "El Aleph Vol. 7",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Aleph+Vol.+7",
+      "precio": "$ 55.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 138,
+      "titulo": "Huasipungo Vol. 7",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Huasipungo+Vol.+7",
+      "precio": "$ 38.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 139,
+      "titulo": "Doña Bárbara Vol. 7",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Doña+Bárbara+Vol.+7",
+      "precio": "$ 32.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 140,
+      "titulo": "El Señor Presidente Vol. 7",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Señor+Presidente+Vol.+7",
+      "precio": "$ 35.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 141,
+      "titulo": "Cien Años de Soledad Vol. 8",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Cien+Años+de+Soledad+Vol.+8",
+      "precio": "$ 33.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 142,
+      "titulo": "Rayuela Vol. 8",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Rayuela+Vol.+8",
+      "precio": "$ 36.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 143,
+      "titulo": "Pedro Páramo Vol. 8",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Pedro+Páramo+Vol.+8",
+      "precio": "$ 37.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 144,
+      "titulo": "Don Quijote de la Mancha Vol. 8",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+8",
+      "precio": "$ 24.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 145,
+      "titulo": "La Ciudad y los Perros Vol. 8",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=La+Ciudad+y+los+Perros+Vol.+8",
+      "precio": "$ 41.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 146,
+      "titulo": "Ficciones Vol. 8",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Ficciones+Vol.+8",
+      "precio": "$ 40.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 147,
+      "titulo": "La Casa de los Espíritus Vol. 8",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=La+Casa+de+los+Espíritus+Vol.+8",
+      "precio": "$ 16.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 148,
+      "titulo": "El Túnel Vol. 8",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=El+Túnel+Vol.+8",
+      "precio": "$ 17.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 149,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 8",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+8",
+      "precio": "$ 18.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 150,
+      "titulo": "Los Pasos Perdidos Vol. 8",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Los+Pasos+Perdidos+Vol.+8",
+      "precio": "$ 33.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 151,
+      "titulo": "Sobre Héroes y Tumbas Vol. 8",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+8",
+      "precio": "$ 29.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 152,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 8",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+8",
+      "precio": "$ 49.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 153,
+      "titulo": "La Tregua Vol. 8",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=La+Tregua+Vol.+8",
+      "precio": "$ 52.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 154,
+      "titulo": "2666 Vol. 8",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=2666+Vol.+8",
+      "precio": "$ 58.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 155,
+      "titulo": "Los Detectives Salvajes Vol. 8",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Los+Detectives+Salvajes+Vol.+8",
+      "precio": "$ 23.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 156,
+      "titulo": "Antología Poética Vol. 8",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Antología+Poética+Vol.+8",
+      "precio": "$ 41.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 157,
+      "titulo": "El Aleph Vol. 8",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=El+Aleph+Vol.+8",
+      "precio": "$ 34.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 158,
+      "titulo": "Huasipungo Vol. 8",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Huasipungo+Vol.+8",
+      "precio": "$ 38.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 159,
+      "titulo": "Doña Bárbara Vol. 8",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Doña+Bárbara+Vol.+8",
+      "precio": "$ 23.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 160,
+      "titulo": "El Señor Presidente Vol. 8",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Señor+Presidente+Vol.+8",
+      "precio": "$ 38.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 161,
+      "titulo": "Cien Años de Soledad Vol. 9",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Cien+Años+de+Soledad+Vol.+9",
+      "precio": "$ 44.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 162,
+      "titulo": "Rayuela Vol. 9",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Rayuela+Vol.+9",
+      "precio": "$ 40.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 163,
+      "titulo": "Pedro Páramo Vol. 9",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Pedro+Páramo+Vol.+9",
+      "precio": "$ 17.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 164,
+      "titulo": "Don Quijote de la Mancha Vol. 9",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+9",
+      "precio": "$ 52.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 165,
+      "titulo": "La Ciudad y los Perros Vol. 9",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=La+Ciudad+y+los+Perros+Vol.+9",
+      "precio": "$ 47.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 166,
+      "titulo": "Ficciones Vol. 9",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Ficciones+Vol.+9",
+      "precio": "$ 17.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 167,
+      "titulo": "La Casa de los Espíritus Vol. 9",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=La+Casa+de+los+Espíritus+Vol.+9",
+      "precio": "$ 26.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 168,
+      "titulo": "El Túnel Vol. 9",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=El+Túnel+Vol.+9",
+      "precio": "$ 57.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 169,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 9",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+9",
+      "precio": "$ 53.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 170,
+      "titulo": "Los Pasos Perdidos Vol. 9",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Los+Pasos+Perdidos+Vol.+9",
+      "precio": "$ 56.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 171,
+      "titulo": "Sobre Héroes y Tumbas Vol. 9",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+9",
+      "precio": "$ 55.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 172,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 9",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+9",
+      "precio": "$ 49.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 173,
+      "titulo": "La Tregua Vol. 9",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=La+Tregua+Vol.+9",
+      "precio": "$ 16.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 174,
+      "titulo": "2666 Vol. 9",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=2666+Vol.+9",
+      "precio": "$ 20.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 175,
+      "titulo": "Los Detectives Salvajes Vol. 9",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Los+Detectives+Salvajes+Vol.+9",
+      "precio": "$ 60.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 176,
+      "titulo": "Antología Poética Vol. 9",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Antología+Poética+Vol.+9",
+      "precio": "$ 19.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 177,
+      "titulo": "El Aleph Vol. 9",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=El+Aleph+Vol.+9",
+      "precio": "$ 32.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 178,
+      "titulo": "Huasipungo Vol. 9",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Huasipungo+Vol.+9",
+      "precio": "$ 42.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 179,
+      "titulo": "Doña Bárbara Vol. 9",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Doña+Bárbara+Vol.+9",
+      "precio": "$ 17.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 180,
+      "titulo": "El Señor Presidente Vol. 9",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Señor+Presidente+Vol.+9",
+      "precio": "$ 59.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    },
+    {
+      "id": 181,
+      "titulo": "Cien Años de Soledad Vol. 10",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Cien+Años+de+Soledad+Vol.+10",
+      "precio": "$ 48.000",
+      "descripcion": "La saga de la familia Buendía en el mítico Macondo es una de las novelas más influyentes de la literatura en español."
+    },
+    {
+      "id": 182,
+      "titulo": "Rayuela Vol. 10",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Rayuela+Vol.+10",
+      "precio": "$ 56.000",
+      "descripcion": "Una obra maestra de la narrativa donde el lector es invitado a elegir su propio orden de lectura."
+    },
+    {
+      "id": 183,
+      "titulo": "Pedro Páramo Vol. 10",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Pedro+Páramo+Vol.+10",
+      "precio": "$ 26.000",
+      "descripcion": "Un viaje a Comala, un pueblo habitado por murmullos y fantasmas, donde se busca la figura de un padre tiránico."
+    },
+    {
+      "id": 184,
+      "titulo": "Don Quijote de la Mancha Vol. 10",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+10",
+      "precio": "$ 19.000",
+      "descripcion": "Las aventuras de un caballero andante y su escudero en un mundo entre la locura y la realidad."
+    },
+    {
+      "id": 185,
+      "titulo": "La Ciudad y los Perros Vol. 10",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=La+Ciudad+y+los+Perros+Vol.+10",
+      "precio": "$ 56.000",
+      "descripcion": "Una cruda exploración de la disciplina militar y la rebeldía juvenil en un colegio militar."
+    },
+    {
+      "id": 186,
+      "titulo": "Ficciones Vol. 10",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Ficciones+Vol.+10",
+      "precio": "$ 23.000",
+      "descripcion": "Colección de relatos laberínticos que exploran la metafísica, el infinito y la naturaleza de la realidad."
+    },
+    {
+      "id": 187,
+      "titulo": "La Casa de los Espíritus Vol. 10",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=La+Casa+de+los+Espíritus+Vol.+10",
+      "precio": "$ 44.000",
+      "descripcion": "Crónica familiar que mezcla el realismo mágico con los cambios políticos de un país sudamericano."
+    },
+    {
+      "id": 188,
+      "titulo": "El Túnel Vol. 10",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Túnel+Vol.+10",
+      "precio": "$ 50.000",
+      "descripcion": "Una confesión introspectiva sobre la soledad y la incapacidad de comunicación humana."
+    },
+    {
+      "id": 189,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 10",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+10",
+      "precio": "$ 33.000",
+      "descripcion": "La reconstrucción fatalista de un asesinato que todo un pueblo conocía pero nadie evitó."
+    },
+    {
+      "id": 190,
+      "titulo": "Los Pasos Perdidos Vol. 10",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Los+Pasos+Perdidos+Vol.+10",
+      "precio": "$ 17.000",
+      "descripcion": "Un viaje épico hacia la selva virgen que representa el reencuentro con los orígenes del arte."
+    },
+    {
+      "id": 191,
+      "titulo": "Sobre Héroes y Tumbas Vol. 10",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+10",
+      "precio": "$ 21.000",
+      "descripcion": "Una novela existencialista que explora la historia argentina a través de una trágica historia de amor."
+    },
+    {
+      "id": 192,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 10",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+10",
+      "precio": "$ 49.000",
+      "descripcion": "Un tributo a la paciencia y la fidelidad de un amor que aguarda más de cincuenta años."
+    },
+    {
+      "id": 193,
+      "titulo": "La Tregua Vol. 10",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=La+Tregua+Vol.+10",
+      "precio": "$ 59.000",
+      "descripcion": "El diario de un oficinista cercano al retiro que encuentra una inesperada oportunidad de felicidad."
+    },
+    {
+      "id": 194,
+      "titulo": "2666 Vol. 10",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=2666+Vol.+10",
+      "precio": "$ 49.000",
+      "descripcion": "Una obra monumental y laberíntica que explora el mal absoluto en la frontera de México."
+    },
+    {
+      "id": 195,
+      "titulo": "Los Detectives Salvajes Vol. 10",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Los+Detectives+Salvajes+Vol.+10",
+      "precio": "$ 52.000",
+      "descripcion": "Un viaje errante por el mundo en busca de una poeta perdida, retratando la juventud literaria."
+    },
+    {
+      "id": 196,
+      "titulo": "Antología Poética Vol. 10",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Antología+Poética+Vol.+10",
+      "precio": "$ 43.000",
+      "descripcion": "Selección fundamental de los versos de uno de los poetas más importantes de la historia."
+    },
+    {
+      "id": 197,
+      "titulo": "El Aleph Vol. 10",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Aleph+Vol.+10",
+      "precio": "$ 21.000",
+      "descripcion": "Un punto en el espacio que contiene simultáneamente todos los puntos del universo."
+    },
+    {
+      "id": 198,
+      "titulo": "Huasipungo Vol. 10",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Huasipungo+Vol.+10",
+      "precio": "$ 29.000",
+      "descripcion": "Novela indigenista que denuncia la explotación cruel de los trabajadores rurales en Ecuador."
+    },
+    {
+      "id": 199,
+      "titulo": "Doña Bárbara Vol. 10",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Doña+Bárbara+Vol.+10",
+      "precio": "$ 32.000",
+      "descripcion": "El conflicto entre la civilización y la barbarie en la lucha por el control de la llanura venezolana."
+    },
+    {
+      "id": 200,
+      "titulo": "El Señor Presidente Vol. 10",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=El+Señor+Presidente+Vol.+10",
+      "precio": "$ 33.000",
+      "descripcion": "Un retrato surrealista sobre los efectos devastadores de una dictadura en la psicología de un pueblo."
+    }
+  ]
+}

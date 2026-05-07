@@ -1,6 +1,6 @@
-import CabeceraLanding from '../components/CabeceraLanding.jsx'
-import Libro from '../components/Libro.jsx'
-import { useAuth } from '../context/useAuth.js'
+import CabeceraLanding from '../../components/CabeceraLanding.jsx'
+import Libro from '../../components/Libro.jsx'
+import { useAuth } from '../../context/useAuth.js'
 import './LandingPage.css'
 
 const librosDestacados = [

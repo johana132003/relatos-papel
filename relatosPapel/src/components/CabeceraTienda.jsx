@@ -1,27 +1,15 @@
 import { Link, useLocation, useNavigate, useSearchParams } from 'react-router-dom'
 import { useId } from 'react'
 import { useCart } from '../context/useCart.js'
+import {useBusquedaTienda} from '../hooks/useBusquedaTienda.js'
 
 export default function CabeceraTienda({ usuario, onLogout }) {
   const idBusqueda = useId()
   const { totalArticulos } = useCart()
-  const location = useLocation()
-  const navigate = useNavigate()
-  const [searchParams, setSearchParams] = useSearchParams()
+  const [searchParams] = useSearchParams()
 
+  const {actualizarBusqueda} = useBusquedaTienda()
   const textoBusqueda = searchParams.get('q') ?? ''
-
-  function actualizarBusqueda(valor) {
-    const t = valor.trim()
-    if (location.pathname === '/tienda') {
-      setSearchParams(t ? { q: t } : {}, { replace: true })
-    } else {
-      navigate({
-        pathname: '/tienda',
-        search: t ? `?q=${encodeURIComponent(t)}` : '',
-      })
-    }
-  }
 
   return (
     <header className="tienda-cabecera">

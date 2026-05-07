@@ -1,0 +1,1404 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Cien+Años+de+Soledad",
+      "precio": "$ 47.000"
+    },
+    {
+      "id": 2,
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Rayuela",
+      "precio": "$ 46.000"
+    },
+    {
+      "id": 3,
+      "titulo": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Pedro+Páramo",
+      "precio": "$ 20.000"
+    },
+    {
+      "id": 4,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Don+Quijote+de+la+Mancha",
+      "precio": "$ 48.000"
+    },
+    {
+      "id": 5,
+      "titulo": "La Ciudad y los Perros",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=La+Ciudad+y+los+Perros",
+      "precio": "$ 49.000"
+    },
+    {
+      "id": 6,
+      "titulo": "Ficciones",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Ficciones",
+      "precio": "$ 60.000"
+    },
+    {
+      "id": 7,
+      "titulo": "La Casa de los Espíritus",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Casa+de+los+Espíritus",
+      "precio": "$ 49.000"
+    },
+    {
+      "id": 8,
+      "titulo": "El Túnel",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=El+Túnel",
+      "precio": "$ 15.000"
+    },
+    {
+      "id": 9,
+      "titulo": "Crónica de una Muerte Anunciada",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Crónica+de+una+Muerte+Anunciada",
+      "precio": "$ 24.000"
+    },
+    {
+      "id": 10,
+      "titulo": "Los Pasos Perdidos",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Los+Pasos+Perdidos",
+      "precio": "$ 26.000"
+    },
+    {
+      "id": 11,
+      "titulo": "Sobre Héroes y Tumbas",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Sobre+Héroes+y+Tumbas",
+      "precio": "$ 29.000"
+    },
+    {
+      "id": 12,
+      "titulo": "El Amor en los Tiempos del Cólera",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 13,
+      "titulo": "La Tregua",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=La+Tregua",
+      "precio": "$ 48.000"
+    },
+    {
+      "id": 14,
+      "titulo": "2666",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=2666",
+      "precio": "$ 43.000"
+    },
+    {
+      "id": 15,
+      "titulo": "Los Detectives Salvajes",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Los+Detectives+Salvajes",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 16,
+      "titulo": "Antología Poética",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Antología+Poética",
+      "precio": "$ 60.000"
+    },
+    {
+      "id": 17,
+      "titulo": "El Aleph",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Aleph",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 18,
+      "titulo": "Huasipungo",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Huasipungo",
+      "precio": "$ 29.000"
+    },
+    {
+      "id": 19,
+      "titulo": "Doña Bárbara",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Doña+Bárbara",
+      "precio": "$ 30.000"
+    },
+    {
+      "id": 20,
+      "titulo": "El Señor Presidente",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=El+Señor+Presidente",
+      "precio": "$ 20.000"
+    },
+    {
+      "id": 21,
+      "titulo": "Cien Años de Soledad Vol. 2",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Cien+Años+de+Soledad+Vol.+2",
+      "precio": "$ 28.000"
+    },
+    {
+      "id": 22,
+      "titulo": "Rayuela Vol. 2",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Rayuela+Vol.+2",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 23,
+      "titulo": "Pedro Páramo Vol. 2",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Pedro+Páramo+Vol.+2",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 24,
+      "titulo": "Don Quijote de la Mancha Vol. 2",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+2",
+      "precio": "$ 20.000"
+    },
+    {
+      "id": 25,
+      "titulo": "La Ciudad y los Perros Vol. 2",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=La+Ciudad+y+los+Perros+Vol.+2",
+      "precio": "$ 29.000"
+    },
+    {
+      "id": 26,
+      "titulo": "Ficciones Vol. 2",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Ficciones+Vol.+2",
+      "precio": "$ 32.000"
+    },
+    {
+      "id": 27,
+      "titulo": "La Casa de los Espíritus Vol. 2",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=La+Casa+de+los+Espíritus+Vol.+2",
+      "precio": "$ 54.000"
+    },
+    {
+      "id": 28,
+      "titulo": "El Túnel Vol. 2",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=El+Túnel+Vol.+2",
+      "precio": "$ 34.000"
+    },
+    {
+      "id": 29,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 2",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+2",
+      "precio": "$ 57.000"
+    },
+    {
+      "id": 30,
+      "titulo": "Los Pasos Perdidos Vol. 2",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Los+Pasos+Perdidos+Vol.+2",
+      "precio": "$ 36.000"
+    },
+    {
+      "id": 31,
+      "titulo": "Sobre Héroes y Tumbas Vol. 2",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+2",
+      "precio": "$ 48.000"
+    },
+    {
+      "id": 32,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 2",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+2",
+      "precio": "$ 32.000"
+    },
+    {
+      "id": 33,
+      "titulo": "La Tregua Vol. 2",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=La+Tregua+Vol.+2",
+      "precio": "$ 25.000"
+    },
+    {
+      "id": 34,
+      "titulo": "2666 Vol. 2",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=2666+Vol.+2",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 35,
+      "titulo": "Los Detectives Salvajes Vol. 2",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Los+Detectives+Salvajes+Vol.+2",
+      "precio": "$ 36.000"
+    },
+    {
+      "id": 36,
+      "titulo": "Antología Poética Vol. 2",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Antología+Poética+Vol.+2",
+      "precio": "$ 30.000"
+    },
+    {
+      "id": 37,
+      "titulo": "El Aleph Vol. 2",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=El+Aleph+Vol.+2",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 38,
+      "titulo": "Huasipungo Vol. 2",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Huasipungo+Vol.+2",
+      "precio": "$ 23.000"
+    },
+    {
+      "id": 39,
+      "titulo": "Doña Bárbara Vol. 2",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Doña+Bárbara+Vol.+2",
+      "precio": "$ 29.000"
+    },
+    {
+      "id": 40,
+      "titulo": "El Señor Presidente Vol. 2",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=El+Señor+Presidente+Vol.+2",
+      "precio": "$ 28.000"
+    },
+    {
+      "id": 41,
+      "titulo": "Cien Años de Soledad Vol. 3",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Cien+Años+de+Soledad+Vol.+3",
+      "precio": "$ 34.000"
+    },
+    {
+      "id": 42,
+      "titulo": "Rayuela Vol. 3",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Rayuela+Vol.+3",
+      "precio": "$ 42.000"
+    },
+    {
+      "id": 43,
+      "titulo": "Pedro Páramo Vol. 3",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Pedro+Páramo+Vol.+3",
+      "precio": "$ 30.000"
+    },
+    {
+      "id": 44,
+      "titulo": "Don Quijote de la Mancha Vol. 3",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+3",
+      "precio": "$ 25.000"
+    },
+    {
+      "id": 45,
+      "titulo": "La Ciudad y los Perros Vol. 3",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=La+Ciudad+y+los+Perros+Vol.+3",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 46,
+      "titulo": "Ficciones Vol. 3",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Ficciones+Vol.+3",
+      "precio": "$ 32.000"
+    },
+    {
+      "id": 47,
+      "titulo": "La Casa de los Espíritus Vol. 3",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=La+Casa+de+los+Espíritus+Vol.+3",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 48,
+      "titulo": "El Túnel Vol. 3",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=El+Túnel+Vol.+3",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 49,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 3",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+3",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 50,
+      "titulo": "Los Pasos Perdidos Vol. 3",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Los+Pasos+Perdidos+Vol.+3",
+      "precio": "$ 60.000"
+    },
+    {
+      "id": 51,
+      "titulo": "Sobre Héroes y Tumbas Vol. 3",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+3",
+      "precio": "$ 58.000"
+    },
+    {
+      "id": 52,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 3",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+3",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 53,
+      "titulo": "La Tregua Vol. 3",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=La+Tregua+Vol.+3",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 54,
+      "titulo": "2666 Vol. 3",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=2666+Vol.+3",
+      "precio": "$ 31.000"
+    },
+    {
+      "id": 55,
+      "titulo": "Los Detectives Salvajes Vol. 3",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Los+Detectives+Salvajes+Vol.+3",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 56,
+      "titulo": "Antología Poética Vol. 3",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Antología+Poética+Vol.+3",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 57,
+      "titulo": "El Aleph Vol. 3",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Aleph+Vol.+3",
+      "precio": "$ 51.000"
+    },
+    {
+      "id": 58,
+      "titulo": "Huasipungo Vol. 3",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Huasipungo+Vol.+3",
+      "precio": "$ 54.000"
+    },
+    {
+      "id": 59,
+      "titulo": "Doña Bárbara Vol. 3",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Doña+Bárbara+Vol.+3",
+      "precio": "$ 52.000"
+    },
+    {
+      "id": 60,
+      "titulo": "El Señor Presidente Vol. 3",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=El+Señor+Presidente+Vol.+3",
+      "precio": "$ 48.000"
+    },
+    {
+      "id": 61,
+      "titulo": "Cien Años de Soledad Vol. 4",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Cien+Años+de+Soledad+Vol.+4",
+      "precio": "$ 39.000"
+    },
+    {
+      "id": 62,
+      "titulo": "Rayuela Vol. 4",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Rayuela+Vol.+4",
+      "precio": "$ 36.000"
+    },
+    {
+      "id": 63,
+      "titulo": "Pedro Páramo Vol. 4",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Pedro+Páramo+Vol.+4",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 64,
+      "titulo": "Don Quijote de la Mancha Vol. 4",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+4",
+      "precio": "$ 48.000"
+    },
+    {
+      "id": 65,
+      "titulo": "La Ciudad y los Perros Vol. 4",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=La+Ciudad+y+los+Perros+Vol.+4",
+      "precio": "$ 18.000"
+    },
+    {
+      "id": 66,
+      "titulo": "Ficciones Vol. 4",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Ficciones+Vol.+4",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 67,
+      "titulo": "La Casa de los Espíritus Vol. 4",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=La+Casa+de+los+Espíritus+Vol.+4",
+      "precio": "$ 43.000"
+    },
+    {
+      "id": 68,
+      "titulo": "El Túnel Vol. 4",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Túnel+Vol.+4",
+      "precio": "$ 37.000"
+    },
+    {
+      "id": 69,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 4",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+4",
+      "precio": "$ 39.000"
+    },
+    {
+      "id": 70,
+      "titulo": "Los Pasos Perdidos Vol. 4",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Los+Pasos+Perdidos+Vol.+4",
+      "precio": "$ 54.000"
+    },
+    {
+      "id": 71,
+      "titulo": "Sobre Héroes y Tumbas Vol. 4",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+4",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 72,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 4",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+4",
+      "precio": "$ 28.000"
+    },
+    {
+      "id": 73,
+      "titulo": "La Tregua Vol. 4",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=La+Tregua+Vol.+4",
+      "precio": "$ 37.000"
+    },
+    {
+      "id": 74,
+      "titulo": "2666 Vol. 4",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=2666+Vol.+4",
+      "precio": "$ 34.000"
+    },
+    {
+      "id": 75,
+      "titulo": "Los Detectives Salvajes Vol. 4",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Los+Detectives+Salvajes+Vol.+4",
+      "precio": "$ 23.000"
+    },
+    {
+      "id": 76,
+      "titulo": "Antología Poética Vol. 4",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Antología+Poética+Vol.+4",
+      "precio": "$ 24.000"
+    },
+    {
+      "id": 77,
+      "titulo": "El Aleph Vol. 4",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Aleph+Vol.+4",
+      "precio": "$ 42.000"
+    },
+    {
+      "id": 78,
+      "titulo": "Huasipungo Vol. 4",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Huasipungo+Vol.+4",
+      "precio": "$ 16.000"
+    },
+    {
+      "id": 79,
+      "titulo": "Doña Bárbara Vol. 4",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Doña+Bárbara+Vol.+4",
+      "precio": "$ 49.000"
+    },
+    {
+      "id": 80,
+      "titulo": "El Señor Presidente Vol. 4",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Señor+Presidente+Vol.+4",
+      "precio": "$ 54.000"
+    },
+    {
+      "id": 81,
+      "titulo": "Cien Años de Soledad Vol. 5",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Cien+Años+de+Soledad+Vol.+5",
+      "precio": "$ 59.000"
+    },
+    {
+      "id": 82,
+      "titulo": "Rayuela Vol. 5",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Rayuela+Vol.+5",
+      "precio": "$ 22.000"
+    },
+    {
+      "id": 83,
+      "titulo": "Pedro Páramo Vol. 5",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Pedro+Páramo+Vol.+5",
+      "precio": "$ 16.000"
+    },
+    {
+      "id": 84,
+      "titulo": "Don Quijote de la Mancha Vol. 5",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+5",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 85,
+      "titulo": "La Ciudad y los Perros Vol. 5",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=La+Ciudad+y+los+Perros+Vol.+5",
+      "precio": "$ 47.000"
+    },
+    {
+      "id": 86,
+      "titulo": "Ficciones Vol. 5",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Ficciones+Vol.+5",
+      "precio": "$ 46.000"
+    },
+    {
+      "id": 87,
+      "titulo": "La Casa de los Espíritus Vol. 5",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=La+Casa+de+los+Espíritus+Vol.+5",
+      "precio": "$ 53.000"
+    },
+    {
+      "id": 88,
+      "titulo": "El Túnel Vol. 5",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=El+Túnel+Vol.+5",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 89,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 5",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+5",
+      "precio": "$ 46.000"
+    },
+    {
+      "id": 90,
+      "titulo": "Los Pasos Perdidos Vol. 5",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Los+Pasos+Perdidos+Vol.+5",
+      "precio": "$ 45.000"
+    },
+    {
+      "id": 91,
+      "titulo": "Sobre Héroes y Tumbas Vol. 5",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+5",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 92,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 5",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+5",
+      "precio": "$ 49.000"
+    },
+    {
+      "id": 93,
+      "titulo": "La Tregua Vol. 5",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=La+Tregua+Vol.+5",
+      "precio": "$ 45.000"
+    },
+    {
+      "id": 94,
+      "titulo": "2666 Vol. 5",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=2666+Vol.+5",
+      "precio": "$ 39.000"
+    },
+    {
+      "id": 95,
+      "titulo": "Los Detectives Salvajes Vol. 5",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Los+Detectives+Salvajes+Vol.+5",
+      "precio": "$ 50.000"
+    },
+    {
+      "id": 96,
+      "titulo": "Antología Poética Vol. 5",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Antología+Poética+Vol.+5",
+      "precio": "$ 24.000"
+    },
+    {
+      "id": 97,
+      "titulo": "El Aleph Vol. 5",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Aleph+Vol.+5",
+      "precio": "$ 31.000"
+    },
+    {
+      "id": 98,
+      "titulo": "Huasipungo Vol. 5",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Huasipungo+Vol.+5",
+      "precio": "$ 26.000"
+    },
+    {
+      "id": 99,
+      "titulo": "Doña Bárbara Vol. 5",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Doña+Bárbara+Vol.+5",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 100,
+      "titulo": "El Señor Presidente Vol. 5",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=El+Señor+Presidente+Vol.+5",
+      "precio": "$ 55.000"
+    },
+    {
+      "id": 101,
+      "titulo": "Cien Años de Soledad Vol. 6",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Cien+Años+de+Soledad+Vol.+6",
+      "precio": "$ 18.000"
+    },
+    {
+      "id": 102,
+      "titulo": "Rayuela Vol. 6",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Rayuela+Vol.+6",
+      "precio": "$ 35.000"
+    },
+    {
+      "id": 103,
+      "titulo": "Pedro Páramo Vol. 6",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Pedro+Páramo+Vol.+6",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 104,
+      "titulo": "Don Quijote de la Mancha Vol. 6",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+6",
+      "precio": "$ 26.000"
+    },
+    {
+      "id": 105,
+      "titulo": "La Ciudad y los Perros Vol. 6",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=La+Ciudad+y+los+Perros+Vol.+6",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 106,
+      "titulo": "Ficciones Vol. 6",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Ficciones+Vol.+6",
+      "precio": "$ 29.000"
+    },
+    {
+      "id": 107,
+      "titulo": "La Casa de los Espíritus Vol. 6",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Casa+de+los+Espíritus+Vol.+6",
+      "precio": "$ 57.000"
+    },
+    {
+      "id": 108,
+      "titulo": "El Túnel Vol. 6",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=El+Túnel+Vol.+6",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 109,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 6",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+6",
+      "precio": "$ 53.000"
+    },
+    {
+      "id": 110,
+      "titulo": "Los Pasos Perdidos Vol. 6",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Los+Pasos+Perdidos+Vol.+6",
+      "precio": "$ 53.000"
+    },
+    {
+      "id": 111,
+      "titulo": "Sobre Héroes y Tumbas Vol. 6",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+6",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 112,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 6",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+6",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 113,
+      "titulo": "La Tregua Vol. 6",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=La+Tregua+Vol.+6",
+      "precio": "$ 22.000"
+    },
+    {
+      "id": 114,
+      "titulo": "2666 Vol. 6",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=2666+Vol.+6",
+      "precio": "$ 20.000"
+    },
+    {
+      "id": 115,
+      "titulo": "Los Detectives Salvajes Vol. 6",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Los+Detectives+Salvajes+Vol.+6",
+      "precio": "$ 53.000"
+    },
+    {
+      "id": 116,
+      "titulo": "Antología Poética Vol. 6",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Antología+Poética+Vol.+6",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 117,
+      "titulo": "El Aleph Vol. 6",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=El+Aleph+Vol.+6",
+      "precio": "$ 54.000"
+    },
+    {
+      "id": 118,
+      "titulo": "Huasipungo Vol. 6",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Huasipungo+Vol.+6",
+      "precio": "$ 42.000"
+    },
+    {
+      "id": 119,
+      "titulo": "Doña Bárbara Vol. 6",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Doña+Bárbara+Vol.+6",
+      "precio": "$ 18.000"
+    },
+    {
+      "id": 120,
+      "titulo": "El Señor Presidente Vol. 6",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=El+Señor+Presidente+Vol.+6",
+      "precio": "$ 24.000"
+    },
+    {
+      "id": 121,
+      "titulo": "Cien Años de Soledad Vol. 7",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Cien+Años+de+Soledad+Vol.+7",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 122,
+      "titulo": "Rayuela Vol. 7",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Rayuela+Vol.+7",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 123,
+      "titulo": "Pedro Páramo Vol. 7",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Pedro+Páramo+Vol.+7",
+      "precio": "$ 24.000"
+    },
+    {
+      "id": 124,
+      "titulo": "Don Quijote de la Mancha Vol. 7",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+7",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 125,
+      "titulo": "La Ciudad y los Perros Vol. 7",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=La+Ciudad+y+los+Perros+Vol.+7",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 126,
+      "titulo": "Ficciones Vol. 7",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Ficciones+Vol.+7",
+      "precio": "$ 15.000"
+    },
+    {
+      "id": 127,
+      "titulo": "La Casa de los Espíritus Vol. 7",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=La+Casa+de+los+Espíritus+Vol.+7",
+      "precio": "$ 39.000"
+    },
+    {
+      "id": 128,
+      "titulo": "El Túnel Vol. 7",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=El+Túnel+Vol.+7",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 129,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 7",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+7",
+      "precio": "$ 36.000"
+    },
+    {
+      "id": 130,
+      "titulo": "Los Pasos Perdidos Vol. 7",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Los+Pasos+Perdidos+Vol.+7",
+      "precio": "$ 56.000"
+    },
+    {
+      "id": 131,
+      "titulo": "Sobre Héroes y Tumbas Vol. 7",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+7",
+      "precio": "$ 60.000"
+    },
+    {
+      "id": 132,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 7",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+7",
+      "precio": "$ 44.000"
+    },
+    {
+      "id": 133,
+      "titulo": "La Tregua Vol. 7",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=La+Tregua+Vol.+7",
+      "precio": "$ 36.000"
+    },
+    {
+      "id": 134,
+      "titulo": "2666 Vol. 7",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=2666+Vol.+7",
+      "precio": "$ 57.000"
+    },
+    {
+      "id": 135,
+      "titulo": "Los Detectives Salvajes Vol. 7",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Los+Detectives+Salvajes+Vol.+7",
+      "precio": "$ 31.000"
+    },
+    {
+      "id": 136,
+      "titulo": "Antología Poética Vol. 7",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Antología+Poética+Vol.+7",
+      "precio": "$ 39.000"
+    },
+    {
+      "id": 137,
+      "titulo": "El Aleph Vol. 7",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Aleph+Vol.+7",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 138,
+      "titulo": "Huasipungo Vol. 7",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Huasipungo+Vol.+7",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 139,
+      "titulo": "Doña Bárbara Vol. 7",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/1b4f72/ffffff?text=Doña+Bárbara+Vol.+7",
+      "precio": "$ 23.000"
+    },
+    {
+      "id": 140,
+      "titulo": "El Señor Presidente Vol. 7",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=El+Señor+Presidente+Vol.+7",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 141,
+      "titulo": "Cien Años de Soledad Vol. 8",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Cien+Años+de+Soledad+Vol.+8",
+      "precio": "$ 30.000"
+    },
+    {
+      "id": 142,
+      "titulo": "Rayuela Vol. 8",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=Rayuela+Vol.+8",
+      "precio": "$ 48.000"
+    },
+    {
+      "id": 143,
+      "titulo": "Pedro Páramo Vol. 8",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Pedro+Páramo+Vol.+8",
+      "precio": "$ 21.000"
+    },
+    {
+      "id": 144,
+      "titulo": "Don Quijote de la Mancha Vol. 8",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+8",
+      "precio": "$ 26.000"
+    },
+    {
+      "id": 145,
+      "titulo": "La Ciudad y los Perros Vol. 8",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=La+Ciudad+y+los+Perros+Vol.+8",
+      "precio": "$ 20.000"
+    },
+    {
+      "id": 146,
+      "titulo": "Ficciones Vol. 8",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Ficciones+Vol.+8",
+      "precio": "$ 56.000"
+    },
+    {
+      "id": 147,
+      "titulo": "La Casa de los Espíritus Vol. 8",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=La+Casa+de+los+Espíritus+Vol.+8",
+      "precio": "$ 32.000"
+    },
+    {
+      "id": 148,
+      "titulo": "El Túnel Vol. 8",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=El+Túnel+Vol.+8",
+      "precio": "$ 58.000"
+    },
+    {
+      "id": 149,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 8",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+8",
+      "precio": "$ 36.000"
+    },
+    {
+      "id": 150,
+      "titulo": "Los Pasos Perdidos Vol. 8",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Los+Pasos+Perdidos+Vol.+8",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 151,
+      "titulo": "Sobre Héroes y Tumbas Vol. 8",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+8",
+      "precio": "$ 46.000"
+    },
+    {
+      "id": 152,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 8",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+8",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 153,
+      "titulo": "La Tregua Vol. 8",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=La+Tregua+Vol.+8",
+      "precio": "$ 55.000"
+    },
+    {
+      "id": 154,
+      "titulo": "2666 Vol. 8",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/145a32/ffffff?text=2666+Vol.+8",
+      "precio": "$ 35.000"
+    },
+    {
+      "id": 155,
+      "titulo": "Los Detectives Salvajes Vol. 8",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Los+Detectives+Salvajes+Vol.+8",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 156,
+      "titulo": "Antología Poética Vol. 8",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Antología+Poética+Vol.+8",
+      "precio": "$ 22.000"
+    },
+    {
+      "id": 157,
+      "titulo": "El Aleph Vol. 8",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Aleph+Vol.+8",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 158,
+      "titulo": "Huasipungo Vol. 8",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Huasipungo+Vol.+8",
+      "precio": "$ 18.000"
+    },
+    {
+      "id": 159,
+      "titulo": "Doña Bárbara Vol. 8",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Doña+Bárbara+Vol.+8",
+      "precio": "$ 50.000"
+    },
+    {
+      "id": 160,
+      "titulo": "El Señor Presidente Vol. 8",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=El+Señor+Presidente+Vol.+8",
+      "precio": "$ 51.000"
+    },
+    {
+      "id": 161,
+      "titulo": "Cien Años de Soledad Vol. 9",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Cien+Años+de+Soledad+Vol.+9",
+      "precio": "$ 60.000"
+    },
+    {
+      "id": 162,
+      "titulo": "Rayuela Vol. 9",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/922b21/ffffff?text=Rayuela+Vol.+9",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 163,
+      "titulo": "Pedro Páramo Vol. 9",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/17202a/ffffff?text=Pedro+Páramo+Vol.+9",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 164,
+      "titulo": "Don Quijote de la Mancha Vol. 9",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+9",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 165,
+      "titulo": "La Ciudad y los Perros Vol. 9",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=La+Ciudad+y+los+Perros+Vol.+9",
+      "precio": "$ 51.000"
+    },
+    {
+      "id": 166,
+      "titulo": "Ficciones Vol. 9",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Ficciones+Vol.+9",
+      "precio": "$ 24.000"
+    },
+    {
+      "id": 167,
+      "titulo": "La Casa de los Espíritus Vol. 9",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=La+Casa+de+los+Espíritus+Vol.+9",
+      "precio": "$ 49.000"
+    },
+    {
+      "id": 168,
+      "titulo": "El Túnel Vol. 9",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Túnel+Vol.+9",
+      "precio": "$ 49.000"
+    },
+    {
+      "id": 169,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 9",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+9",
+      "precio": "$ 39.000"
+    },
+    {
+      "id": 170,
+      "titulo": "Los Pasos Perdidos Vol. 9",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Los+Pasos+Perdidos+Vol.+9",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 171,
+      "titulo": "Sobre Héroes y Tumbas Vol. 9",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+9",
+      "precio": "$ 23.000"
+    },
+    {
+      "id": 172,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 9",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+9",
+      "precio": "$ 47.000"
+    },
+    {
+      "id": 173,
+      "titulo": "La Tregua Vol. 9",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=La+Tregua+Vol.+9",
+      "precio": "$ 46.000"
+    },
+    {
+      "id": 174,
+      "titulo": "2666 Vol. 9",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/2c3e50/ffffff?text=2666+Vol.+9",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 175,
+      "titulo": "Los Detectives Salvajes Vol. 9",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Los+Detectives+Salvajes+Vol.+9",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 176,
+      "titulo": "Antología Poética Vol. 9",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=Antología+Poética+Vol.+9",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 177,
+      "titulo": "El Aleph Vol. 9",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=El+Aleph+Vol.+9",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 178,
+      "titulo": "Huasipungo Vol. 9",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/7d3c98/ffffff?text=Huasipungo+Vol.+9",
+      "precio": "$ 44.000"
+    },
+    {
+      "id": 179,
+      "titulo": "Doña Bárbara Vol. 9",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/1a5276/ffffff?text=Doña+Bárbara+Vol.+9",
+      "precio": "$ 60.000"
+    },
+    {
+      "id": 180,
+      "titulo": "El Señor Presidente Vol. 9",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=El+Señor+Presidente+Vol.+9",
+      "precio": "$ 18.000"
+    },
+    {
+      "id": 181,
+      "titulo": "Cien Años de Soledad Vol. 10",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Cien+Años+de+Soledad+Vol.+10",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 182,
+      "titulo": "Rayuela Vol. 10",
+      "autor": "Julio Cortázar",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Rayuela+Vol.+10",
+      "precio": "$ 25.000"
+    },
+    {
+      "id": 183,
+      "titulo": "Pedro Páramo Vol. 10",
+      "autor": "Juan Rulfo",
+      "imagen": "https://placehold.co/400x600/4a235a/ffffff?text=Pedro+Páramo+Vol.+10",
+      "precio": "$ 38.000"
+    },
+    {
+      "id": 184,
+      "titulo": "Don Quijote de la Mancha Vol. 10",
+      "autor": "Miguel de Cervantes",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Don+Quijote+de+la+Mancha+Vol.+10",
+      "precio": "$ 19.000"
+    },
+    {
+      "id": 185,
+      "titulo": "La Ciudad y los Perros Vol. 10",
+      "autor": "Mario Vargas Llosa",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=La+Ciudad+y+los+Perros+Vol.+10",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 186,
+      "titulo": "Ficciones Vol. 10",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Ficciones+Vol.+10",
+      "precio": "$ 35.000"
+    },
+    {
+      "id": 187,
+      "titulo": "La Casa de los Espíritus Vol. 10",
+      "autor": "Isabel Allende",
+      "imagen": "https://placehold.co/400x600/212f3d/ffffff?text=La+Casa+de+los+Espíritus+Vol.+10",
+      "precio": "$ 55.000"
+    },
+    {
+      "id": 188,
+      "titulo": "El Túnel Vol. 10",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=El+Túnel+Vol.+10",
+      "precio": "$ 55.000"
+    },
+    {
+      "id": 189,
+      "titulo": "Crónica de una Muerte Anunciada Vol. 10",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=Crónica+de+una+Muerte+Anunciada+Vol.+10",
+      "precio": "$ 42.000"
+    },
+    {
+      "id": 190,
+      "titulo": "Los Pasos Perdidos Vol. 10",
+      "autor": "Alejo Carpentier",
+      "imagen": "https://placehold.co/400x600/943126/ffffff?text=Los+Pasos+Perdidos+Vol.+10",
+      "precio": "$ 23.000"
+    },
+    {
+      "id": 191,
+      "titulo": "Sobre Héroes y Tumbas Vol. 10",
+      "autor": "Ernesto Sabato",
+      "imagen": "https://placehold.co/400x600/784212/ffffff?text=Sobre+Héroes+y+Tumbas+Vol.+10",
+      "precio": "$ 51.000"
+    },
+    {
+      "id": 192,
+      "titulo": "El Amor en los Tiempos del Cólera Vol. 10",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Amor+en+los+Tiempos+del+Cólera+Vol.+10",
+      "precio": "$ 34.000"
+    },
+    {
+      "id": 193,
+      "titulo": "La Tregua Vol. 10",
+      "autor": "Mario Benedetti",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=La+Tregua+Vol.+10",
+      "precio": "$ 17.000"
+    },
+    {
+      "id": 194,
+      "titulo": "2666 Vol. 10",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/ba4a00/ffffff?text=2666+Vol.+10",
+      "precio": "$ 27.000"
+    },
+    {
+      "id": 195,
+      "titulo": "Los Detectives Salvajes Vol. 10",
+      "autor": "Roberto Bolaño",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=Los+Detectives+Salvajes+Vol.+10",
+      "precio": "$ 50.000"
+    },
+    {
+      "id": 196,
+      "titulo": "Antología Poética Vol. 10",
+      "autor": "Pablo Neruda",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=Antología+Poética+Vol.+10",
+      "precio": "$ 56.000"
+    },
+    {
+      "id": 197,
+      "titulo": "El Aleph Vol. 10",
+      "autor": "Jorge Luis Borges",
+      "imagen": "https://placehold.co/400x600/2e4053/ffffff?text=El+Aleph+Vol.+10",
+      "precio": "$ 41.000"
+    },
+    {
+      "id": 198,
+      "titulo": "Huasipungo Vol. 10",
+      "autor": "Jorge Icaza",
+      "imagen": "https://placehold.co/400x600/641e16/ffffff?text=Huasipungo+Vol.+10",
+      "precio": "$ 56.000"
+    },
+    {
+      "id": 199,
+      "titulo": "Doña Bárbara Vol. 10",
+      "autor": "Rómulo Gallegos",
+      "imagen": "https://placehold.co/400x600/1d8348/ffffff?text=Doña+Bárbara+Vol.+10",
+      "precio": "$ 33.000"
+    },
+    {
+      "id": 200,
+      "titulo": "El Señor Presidente Vol. 10",
+      "autor": "Miguel Ángel Asturias",
+      "imagen": "https://placehold.co/400x600/117a65/ffffff?text=El+Señor+Presidente+Vol.+10",
+      "precio": "$ 46.000"
+    }
+  ]
+}

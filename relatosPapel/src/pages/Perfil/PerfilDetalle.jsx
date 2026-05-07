@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import CabeceraTienda from '../components/CabeceraTienda.jsx'
-import { useAuth } from '../context/useAuth.js'
-import { getUserDetail } from '../services/userService.js'
-import './TiendaPage.css'
+import CabeceraTienda from '../../components/CabeceraTienda.jsx'
+import { useAuth } from '../../context/useAuth.js'
+import { getUserDetail } from '../../services/userService.js'
+import '../Tienda/TiendaPage.css'
 import './Perfil.css'
 
 export default function PerfilDetalle() {
