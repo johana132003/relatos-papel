@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import CabeceraTienda from '../../components/CabeceraTienda.jsx'
-import { useAuth } from '../../context/useAuth.js'
+import { useAuth } from '../../hooks/useAuth.js'
 import { formatPrecioCOP } from '../../utils/precio.js'
 import '../Tienda/TiendaPage.css'
 import './CompraExitosa.css'

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import CabeceraTienda from '../../components/CabeceraTienda.jsx'
-import { useAuth } from '../../context/useAuth.js'
+import { useAuth } from '../../hooks/useAuth.js'
 import { getPurchaseHistory } from '../../services/purchaseService.js'
 import { formatPrecioCOP } from '../../utils/precio.js'
 import '../Tienda/TiendaPage.css'

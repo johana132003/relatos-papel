@@ -1,6 +1,6 @@
 import { Link, useLocation, useNavigate, useSearchParams } from 'react-router-dom'
 import { useId } from 'react'
-import { useCart } from '../context/useCart.js'
+import { useCart } from '../hooks/useCart.js'
 import {useBusquedaTienda} from '../hooks/useBusquedaTienda.js'
 
 export default function CabeceraTienda({ usuario, onLogout }) {

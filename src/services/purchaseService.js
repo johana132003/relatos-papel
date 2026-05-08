@@ -1,4 +1,4 @@
-import purchasesSeed from './purchases.json'
+import purchasesSeed from '../utils/mockPurchases.json'
 import booksData from '../utils/mockBooks.json'
 import { delay, ok, fail } from './apiClient.js'
 import { parsePrecioCOP } from '../utils/precio.js'

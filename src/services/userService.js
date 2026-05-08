@@ -1,4 +1,4 @@
-import usersData from './users.json'
+import usersData from '../utils/mockUsers.json'
 import { delay, ok, fail } from './apiClient.js'
 
 /** GET /users/:id */
